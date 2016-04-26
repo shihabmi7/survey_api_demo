@@ -1,7 +1,8 @@
 <?php
 
-
-// echo "My first PHP script!";
+// URL should be like that // survey is my folder name 
+// two file there index.php + .htaccess file
+// http://localhost/survey/java
 
 header("Content-Type:application/json");
 
