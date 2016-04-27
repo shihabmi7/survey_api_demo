@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
 
+<!-- demo url -->
+<!-- // http://localhost/survey/survey_consume/submit?name=c -->
+
 <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js">
 </script>
 
