@@ -1,10 +1,9 @@
 <?php
 
-
 	$name   = $_POST['name'];
-   		// $name   = urldecode($_POST['name']);
-       $email  = urldecode($_POST['email']);
-       $phone   = urldecode($_POST['phone']);
+   	// $name   = urldecode($_POST['name']);
+    $email  = urldecode($_POST['email']);
+    $phone   = urldecode($_POST['phone']);
         
 
 deliver_response($name ,$email ,$phone,200,"success");
